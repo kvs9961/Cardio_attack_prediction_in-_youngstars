@@ -1,0 +1,2 @@
+Age,Gender,Smoking Status,Alcohol Consumption,Physical Activity Level,Sleep Duration (Hours),Diabetes,Hypertension,Cholesterol Level,BMI,Stress Level,output,timestamp
+24,Male,No,Yes,Low,8,Yes,Yes,20,50,High,,2025-02-04 17:21:58.040866
